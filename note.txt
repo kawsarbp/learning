@@ -1,9 +1,4 @@
-note
-
-this note is by test
-
-three line
-
-four line
-
-one line
+this is out first text file.
+this is new line
+my name is kawsar
+ashif
