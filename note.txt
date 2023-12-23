@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 this is out first text file.
 this is new line
 my name is kawsar
 ashif
 
+=======
+note
+issue solved
+>>>>>>> b6e1d92fa97f573767324df719a9046a1bb015e4
